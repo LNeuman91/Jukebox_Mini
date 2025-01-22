@@ -10,5 +10,24 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "You've been hired to create the backend for a digital music service. The team's still working on getting access to tracks, but for now, you can get started on the playlist functionality.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LNeuman91/Jukebox_Mini.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LNeuman91/Jukebox_Mini/issues"
+  },
+  "homepage": "https://github.com/LNeuman91/Jukebox_Mini#readme",
+  "devDependencies": {
+    "prisma": "^6.2.1"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
 }
